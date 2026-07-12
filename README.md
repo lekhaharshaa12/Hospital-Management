@@ -30,10 +30,6 @@ A lightweight, reliable, and type-safe console-based Hospital Management System 
 
 ## Getting Started
 
-### Prerequisites
-
-You need a C++ compiler supporting C++11 or higher (e.g., GCC/MinGW, Clang, or MSVC).
-
 ### Compilation
 
 Open your terminal or command prompt in the project directory and run:
